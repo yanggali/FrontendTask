@@ -1,0 +1,28 @@
+*
+{
+	margin: 0;
+}
+.awards
+{
+	font-family: '楷体';
+	font-size: 40px;
+	text-align: center;
+	width: 400px;
+	margin: 20px auto;
+}
+.btn_div
+{
+	width: 280px;
+	margin: 40px auto;
+}
+.btn
+{
+	width: 100px;
+	height: 40px;
+	background: #ccf;
+	float: left;
+	margin: 0 10px;
+	text-align: center;
+	line-height: 40px;
+	cursor: pointer;
+}

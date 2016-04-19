@@ -1,0 +1,42 @@
+*
+{
+	margin: 0;
+	padding: 0;
+}
+.left
+{
+	position: relative;
+	width: 200px;
+	height: 200px;
+	left: -200px;
+	background: #f00;
+	float: left;
+}
+.right
+{
+	position: absolute;
+	width: 20px;
+	height: 40px;
+	left: 200px;
+	background: #0f0;
+	top: 80px;
+}
+.opca
+{
+	width: 200px;
+	height: 200px;
+	background: red;
+	position: relative;
+	top: 200px;
+	opacity: 0.3;
+	filter: alpha(opacity:30);
+}
+.lis
+{
+	width: 200px;
+	height: 150px;
+	background: yellow;
+	margin-bottom: 20px;
+	filter: alpha(opacity:30);
+	opacity: 0.3;
+}
