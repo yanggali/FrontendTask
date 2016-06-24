@@ -1,0 +1,40 @@
+*{
+	padding: 20px;
+	mrgin:0px;
+	font-weight: bold;
+}
+.main{
+	background: #eee;
+	width: 100%;
+	position: relative;
+}
+.left{
+	width: 200px;
+	position: absolute;
+	left: 20px;
+	top: 20px;
+}
+.logo{
+	width: 80px;
+	height: 80px;
+	background: #eee;
+	border: 1px solid #999;
+}
+.right{
+	width: 120px;
+	position: absolute;
+	top: 20px;
+	right: 20px;
+}
+.middle{
+	background: #fff;
+	margin-left: 260px;
+	margin-right: 180px;
+	border: 1px #999 solid;
+	min-width: 200px;
+}
+.general{
+	background: #fff;
+	border: 1px solid #999;
+	
+}

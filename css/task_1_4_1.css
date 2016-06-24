@@ -1,0 +1,28 @@
+.main{
+	width: 400px;
+	height: 200px;
+	background: #ccc;
+	position: absolute;
+	left: 50%;
+	top: 50%;
+	margin: -100px 0 0 -200px;
+	overflow: hidden;
+}
+.left{
+	border-radius: 50%;
+	background: #fc0;
+	width: 100px;
+	height: 100px;
+	position: absolute;
+	left: -50px;
+	top: -50px;
+}
+.right{
+	border-radius: 50%;
+	background: #fc0;
+	width: 100px;
+	height: 100px;
+	position: absolute;
+	right: -50px;
+	bottom: -50px;
+}
